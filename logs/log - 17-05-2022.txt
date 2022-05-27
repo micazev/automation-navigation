@@ -1,0 +1,138 @@
+Iniciando automação - 15:53:34
+Página aberta - 15:53:40
+Login realizado - 15:53:48
+Navegação até área issue - 15:53:52
+CRIAR CT - Fixed asset and intangible assets policies - 15:53:58
+Iniciando automação - 16:19:04
+Página aberta - 16:19:09
+Login realizado - 16:19:15
+Navegação até área issue - 16:19:20
+CRIAR CT - Hierarchical approval of the write-off - 16:19:25
+Iniciando automação - 17:29:46
+Página aberta - 17:29:52
+Login realizado - 17:29:59
+Iniciando automação - 17:30:24
+Página aberta - 17:30:28
+Login realizado - 17:30:34
+Navegação até área issue - 17:30:39
+CRIAR CT - Hierarchical approval of the write-off - 17:30:44
+Iniciando automação - 18:20:14
+Página aberta - 18:20:21
+Login realizado - 18:20:33
+Iniciando automação - 18:21:53
+Página aberta - 18:21:58
+Login realizado - 18:22:05
+Navegação até área issue - 18:22:11
+CRIAR CT - Hierarchical approval of the write-off - 18:22:16
+SALVO CT - Hierarchical approval of the write-off - 18:22:57
+Iniciando automação - 18:23:33
+Página aberta - 18:23:38
+Login realizado - 18:23:45
+Iniciando automação - 18:24:30
+Página aberta - 18:24:36
+Login realizado - 18:24:43
+Navegação até área issue - 18:24:48
+CRIAR CT - Hierarchical approval of the write-off - 18:24:54
+Iniciando automação - 18:25:28
+Página aberta - 18:25:35
+Login realizado - 18:25:41
+Navegação até área issue - 18:25:47
+CRIAR CT - Hierarchical approval of new asset project - 18:25:53
+SALVO CT - Hierarchical approval of new asset project - 18:26:33
+Iniciando automação - 18:30:09
+Página aberta - 18:30:15
+Login realizado - 18:30:22
+Navegação até área issue - 18:30:27
+CRIAR CT - Hierarchical approval of the period indicators - 18:30:34
+SALVO CT - Hierarchical approval of the period indicators - 18:31:00
+CRIAR CT - Training of Asset Addition - 18:31:07
+SALVO CT - Training of Asset Addition - 18:31:33
+CRIAR CT - Training of Asset Activation - 18:31:40
+SALVO CT - Training of Asset Activation - 18:32:06
+CRIAR CT - Training of Asset Transfers and Updates - 18:32:13
+SALVO CT - Training of Asset Transfers and Updates - 18:32:38
+CRIAR CT - Training to Assets Purchases - 18:32:46
+SALVO CT - Training to Assets Purchases - 18:33:14
+CRIAR CT - Training to Register Asset Project - 18:33:21
+SALVO CT - Training to Register Asset Project - 18:33:47
+CRIAR CT - Monitoring of system parameters / configurations, integrations and interfaces in the Fixed Assets area - 18:33:54
+SALVO CT - Monitoring of system parameters / configurations, integrations and interfaces in the Fixed Assets area - 18:34:22
+CRIAR CT - Risk monitoring and controls mapped in the fixed assets area - 18:34:29
+SALVO CT - Risk monitoring and controls mapped in the fixed assets area - 18:34:55
+CRIAR CT - Communication Between Internal and External About Assets Activations - 18:35:03
+SALVO CT - Communication Between Internal and External About Assets Activations - 18:35:28
+CRIAR CT - Communication between internal and external about the updated status - 18:35:36
+SALVO CT - Communication between internal and external about the updated status - 18:36:02
+CRIAR CT - Communication between internal and external about relevant indicators - 18:36:09
+SALVO CT - Communication between internal and external about relevant indicators - 18:36:36
+CRIAR CT - Technical approval of assets activation by the owner - 18:36:44
+SALVO CT - Technical approval of assets activation by the owner - 18:37:09
+CRIAR CT - Technical approval of assets addition by the owner - 18:37:16
+SALVO CT - Technical approval of assets addition by the owner - 18:37:44
+CRIAR CT - Technical approval of assets adjust by the owner - 18:37:51
+SALVO CT - Technical approval of assets adjust by the owner - 18:38:17
+CRIAR CT - Technical approval of assets ID creation by the owner  - 18:38:25
+SALVO CT - Technical approval of assets ID creation by the owner  - 18:38:52
+CRIAR CT - Technical approval of assets reclassification by owner - 18:39:00
+SALVO CT - Technical approval of assets reclassification by owner - 18:39:25
+CRIAR CT - Technical approval of new asset project by the accounting team - 18:39:33
+SALVO CT - Technical approval of new asset project by the accounting team - 18:40:01
+CRIAR CT - Technical approval of new asset project by the owner - 18:40:09
+SALVO CT - Technical approval of new asset project by the owner - 18:40:34
+CRIAR CT - Technical approval of physical ID creation - 18:40:41
+SALVO CT - Technical approval of physical ID creation - 18:41:07
+CRIAR CT - Technical approval of the impairment provision - 18:41:15
+SALVO CT - Technical approval of the impairment provision - 18:41:40
+CRIAR CT - Technical approval of the impairment test - 18:41:47
+SALVO CT - Technical approval of the impairment test - 18:42:15
+CRIAR CT - Technical approval of the write-off by the accounting team - 18:42:22
+SALVO CT - Technical approval of the write-off by the accounting team - 18:42:48
+CRIAR CT - Technical approval of the write-off by the owner - 18:42:55
+SALVO CT - Technical approval of the write-off by the owner - 18:43:20
+CRIAR CT - Technical approval of transfer and/ or update asset by the owner - 18:43:28
+Iniciando automação - 18:47:31
+Página aberta - 18:47:38
+Login realizado - 18:47:45
+Navegação até área issue - 18:47:51
+CRIAR CT - Warning and deadline for removal of items - 18:47:59
+SALVO CT - Warning and deadline for removal of items - 18:48:24
+CRIAR CT - Access control for fixed asset compliance per user and profile - 18:48:32
+SALVO CT - Access control for fixed asset compliance per user and profile - 18:48:57
+Busca por CT - Warning and deadline for removal of items - 18:49:07
+Iniciando automação - 18:56:37
+Página aberta - 18:56:42
+Login realizado - 18:56:50
+Navegação até área issue - 18:56:56
+CRIAR CT - Access control for fixed asset compliance per user and profile - 18:57:03
+Iniciando automação - 19:00:37
+Página aberta - 19:00:42
+Login realizado - 19:00:49
+Navegação até área issue - 19:00:54
+CRIAR CT - Communication and Negotiation to Solve The Possible Issues Of Delivery Of Purchased Material and / Service - 19:01:02
+SALVO CT - Communication and Negotiation to Solve The Possible Issues Of Delivery Of Purchased Material and / Service - 19:01:28
+CRIAR CT - Contracts Clauses for Contract Cancelation - 19:01:36
+Iniciando automação - 19:06:58
+Página aberta - 19:07:04
+Login realizado - 19:07:11
+Navegação até área issue - 19:07:17
+CRIAR CT - Create standard draft contract - 19:07:24
+SALVO CT - Create standard draft contract - 19:07:50
+CRIAR CT - Create standard draft contract - 19:07:57
+Iniciando automação - 19:09:11
+Página aberta - 19:09:17
+Login realizado - 19:09:23
+Navegação até área issue - 19:09:28
+CRIAR CT - Disciplinary measures for contract cancelation - 19:09:36
+SALVO CT - Disciplinary measures for contract cancelation - 19:10:02
+CRIAR CT - Disciplinary measures for supplier poorly evaluated - 19:10:09
+SALVO CT - Disciplinary measures for supplier poorly evaluated - 19:10:35
+CRIAR CT - Global purchasing policy - 19:10:42
+SALVO CT - Global purchasing policy - 19:11:08
+CRIAR CT - Governance of the Procurement team - 19:11:15
+SALVO CT - Governance of the Procurement team - 19:11:40
+Busca por CT - Disciplinary measures for contract cancelation - 19:11:50
+Iniciando automação - 19:22:10
+Página aberta - 19:22:15
+Login realizado - 19:22:24
+Navegação até área issue - 19:22:29
+CRIAR CT - Disciplinary measures for contract cancelation - 19:22:36

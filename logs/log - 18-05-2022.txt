@@ -1,0 +1,336 @@
+Iniciando automação - 08:54:09
+Página aberta - 08:54:13
+Login realizado - 08:54:19
+Iniciando automação - 09:00:26
+Página aberta - 09:00:31
+Login realizado - 09:00:38
+Navegação até área issue - 09:00:44
+CRIAR CT - Disciplinary measures for contract cancelation - 09:00:52
+Iniciando automação - 09:25:02
+Página aberta - 09:25:06
+Login realizado - 09:25:12
+Navegação até área issue - 09:25:18
+CRIAR CT - Disciplinary measures for contract cancelation - 09:25:26
+Iniciando automação - 15:31:53
+Página aberta - 15:31:56
+Login realizado - 15:32:03
+Navegação até área issue - 15:32:10
+CRIAR CT - Disciplinary measures for contract cancelation - 15:32:18
+Iniciando automação - 15:35:22
+Página aberta - 15:35:26
+Iniciando automação - 15:36:25
+Página aberta - 15:36:31
+Login realizado - 15:36:38
+Navegação até área issue - 15:36:45
+CRIAR CT - Disciplinary measures for contract cancelation - 15:36:53
+Iniciando automação - 15:43:00
+Página aberta - 15:43:04
+Login realizado - 15:43:11
+Navegação até área issue - 15:43:17
+CRIAR CT - Disciplinary measures for contract cancelation - 15:43:24
+Iniciando automação - 15:44:29
+Página aberta - 15:44:32
+Login realizado - 15:44:38
+Navegação até área issue - 15:44:44
+CRIAR CT - Disciplinary measures for contract cancelation - 15:44:51
+Já havia cadastro: CT - Disciplinary measures for contract cancelation - 15:45:03
+CRIAR CT - Disciplinary measures for supplier poorly evaluated - 15:45:10
+Já havia cadastro: CT - Disciplinary measures for supplier poorly evaluated - 15:45:23
+CRIAR CT - Global purchasing policy - 15:45:30
+Já havia cadastro: CT - Global purchasing policy - 15:45:42
+CRIAR CT - Governance of the Procurement team - 15:45:49
+Já havia cadastro: CT - Governance of the Procurement team - 15:46:01
+Busca por CT - Disciplinary measures for contract cancelation - 15:46:11
+Iniciando automação - 15:49:32
+Página aberta - 15:49:42
+Login realizado - 15:49:49
+Navegação até área issue - 15:49:53
+CRIAR CT - Hierarchical approval of the period indicators - 15:50:01
+Já havia cadastro: CT - Hierarchical approval of the period indicators - 15:50:13
+CRIAR CT - Training of Asset Addition - 15:50:20
+Já havia cadastro: CT - Training of Asset Addition - 15:50:33
+CRIAR CT - Training of Asset Activation - 15:50:40
+Já havia cadastro: CT - Training of Asset Activation - 15:50:52
+CRIAR CT - Training of Asset Transfers and Updates - 15:50:59
+Já havia cadastro: CT - Training of Asset Transfers and Updates - 15:51:11
+CRIAR CT - Training to Assets Purchases - 15:51:19
+Já havia cadastro: CT - Training to Assets Purchases - 15:51:31
+CRIAR CT - Training to Register Asset Project - 15:51:38
+Já havia cadastro: CT - Training to Register Asset Project - 15:51:50
+CRIAR CT - Monitoring of system parameters / configurations, integrations and interfaces in the Fixed Assets area - 15:51:57
+Já havia cadastro: CT - Monitoring of system parameters / configurations, integrations and interfaces in the Fixed Assets area - 15:52:09
+CRIAR CT - Risk monitoring and controls mapped in the fixed assets area - 15:52:17
+Já havia cadastro: CT - Risk monitoring and controls mapped in the fixed assets area - 15:52:29
+CRIAR CT - Communication Between Internal and External About Assets Activations - 15:52:36
+Já havia cadastro: CT - Communication Between Internal and External About Assets Activations - 15:52:48
+CRIAR CT - Communication between internal and external about the updated status - 15:52:56
+Já havia cadastro: CT - Communication between internal and external about the updated status - 15:53:08
+CRIAR CT - Communication between internal and external about relevant indicators - 15:53:15
+Já havia cadastro: CT - Communication between internal and external about relevant indicators - 15:53:27
+CRIAR CT - Technical approval of assets activation by the owner - 15:53:34
+Já havia cadastro: CT - Technical approval of assets activation by the owner - 15:53:46
+CRIAR CT - Technical approval of assets addition by the owner - 15:53:54
+Já havia cadastro: CT - Technical approval of assets addition by the owner - 15:54:06
+CRIAR CT - Technical approval of assets adjust by the owner - 15:54:13
+Já havia cadastro: CT - Technical approval of assets adjust by the owner - 15:54:25
+CRIAR CT - Technical approval of assets ID creation by the owner  - 15:54:33
+Já havia cadastro: CT - Technical approval of assets ID creation by the owner  - 15:54:45
+CRIAR CT - Technical approval of assets reclassification by owner - 15:54:52
+Já havia cadastro: CT - Technical approval of assets reclassification by owner - 15:55:04
+CRIAR CT - Technical approval of new asset project by the accounting team - 15:55:11
+Já havia cadastro: CT - Technical approval of new asset project by the accounting team - 15:55:23
+CRIAR CT - Technical approval of new asset project by the owner - 15:55:31
+Já havia cadastro: CT - Technical approval of new asset project by the owner - 15:55:43
+CRIAR CT - Technical approval of physical ID creation - 15:55:50
+Já havia cadastro: CT - Technical approval of physical ID creation - 15:56:02
+CRIAR CT - Technical approval of the impairment provision - 15:56:09
+Já havia cadastro: CT - Technical approval of the impairment provision - 15:56:22
+CRIAR CT - Technical approval of the impairment test - 15:56:29
+Já havia cadastro: CT - Technical approval of the impairment test - 15:56:41
+CRIAR CT - Technical approval of the write-off by the accounting team - 15:56:48
+Já havia cadastro: CT - Technical approval of the write-off by the accounting team - 15:57:00
+CRIAR CT - Technical approval of the write-off by the owner - 15:57:07
+Já havia cadastro: CT - Technical approval of the write-off by the owner - 15:57:19
+CRIAR CT - Technical approval of transfer and/ or update asset by the owner - 15:57:27
+Já havia cadastro: CT - Technical approval of transfer and/ or update asset by the owner - 15:57:39
+CRIAR CT - Warning and deadline for removal of items - 15:57:46
+Já havia cadastro: CT - Warning and deadline for removal of items - 15:57:58
+CRIAR CT - Access control for fixed asset compliance per user and profile - 15:58:05
+Já havia cadastro: CT - Access control for fixed asset compliance per user and profile - 15:58:18
+CRIAR CT - Communication and Negotiation to Solve The Possible Issues Of Delivery Of Purchased Material and / Service - 15:58:25
+Já havia cadastro: CT - Communication and Negotiation to Solve The Possible Issues Of Delivery Of Purchased Material and / Service - 15:58:37
+CRIAR CT - Contracts Clauses for Contract Cancelation - 15:58:44
+Já havia cadastro: CT - Contracts Clauses for Contract Cancelation - 15:58:56
+CRIAR CT - Create standard draft contract - 15:59:03
+Já havia cadastro: CT - Create standard draft contract - 15:59:16
+CRIAR CT - Disciplinary measures for contract cancelation - 15:59:23
+Já havia cadastro: CT - Disciplinary measures for contract cancelation - 15:59:35
+CRIAR CT - Disciplinary measures for supplier poorly evaluated - 15:59:42
+Já havia cadastro: CT - Disciplinary measures for supplier poorly evaluated - 15:59:54
+CRIAR CT - Global purchasing policy - 16:00:02
+Já havia cadastro: CT - Global purchasing policy - 16:00:14
+CRIAR CT - Governance of the Procurement team - 16:00:21
+Já havia cadastro: CT - Governance of the Procurement team - 16:00:33
+CRIAR CT - Hierarchical Approval Contract Cancelation - 16:00:40
+Já havia cadastro: CT - Hierarchical Approval Contract Cancelation - 16:00:52
+CRIAR CT - Hierarchical Approval Contract Update - 16:01:00
+Já havia cadastro: CT - Hierarchical Approval Contract Update - 16:01:12
+CRIAR CT - Hierarchical approval for group of buyers - 16:01:19
+Já havia cadastro: CT - Hierarchical approval for group of buyers - 16:01:31
+CRIAR CT - Hierarchical approval in case of Conflicts of interest - 16:01:38
+Já havia cadastro: CT - Hierarchical approval in case of Conflicts of interest - 16:01:50
+CRIAR CT - Hierarchical approval in case of lack of business rules in the Policy - 16:01:58
+Já havia cadastro: CT - Hierarchical approval in case of lack of business rules in the Policy - 16:02:10
+CRIAR CT - Hierarchical approval of contracts - 16:02:17
+Já havia cadastro: CT - Hierarchical approval of contracts - 16:02:29
+Iniciando automação - 16:04:06
+Página aberta - 16:04:08
+Login realizado - 16:04:14
+Iniciando automação - 16:11:36
+Página aberta - 16:11:40
+Login realizado - 16:11:45
+Navegação até área issue - 16:11:51
+CRIAR CT - Hierarchical approval of the period indicators - 16:11:58
+Já havia cadastro: CT - Hierarchical approval of the period indicators - 16:12:10
+Iniciando automação - 16:13:42
+Página aberta - 16:13:44
+Login realizado - 16:13:50
+Navegação até área issue - 16:13:54
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:14:01
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:14:13
+CRIAR CT - Approval of revenue value to be billed by core areas - 16:14:21
+Iniciando automação - 16:20:40
+Página aberta - 16:20:43
+Login realizado - 16:20:52
+Navegação até área issue - 16:20:58
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:21:03
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:21:15
+CRIAR CT - Approval of revenue value to be billed by core areas - 16:21:19
+Iniciando automação - 16:21:47
+Página aberta - 16:21:52
+Login realizado - 16:22:01
+Navegação até área issue - 16:22:06
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:22:11
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:22:25
+CRIAR CT - Approval of revenue value to be billed by core areas - 16:22:30
+Já havia cadastro: CT - Approval of revenue value to be billed by core areas - 16:22:45
+CRIAR CT - Approval of the requesting team on the request for manual billing of other natures - 16:22:49
+Já havia cadastro: CT - Approval of the requesting team on the request for manual billing of other natures - 16:23:04
+CRIAR CT - Approval of the tax team on the request for manual billing of other natures - 16:23:08
+Já havia cadastro: CT - Approval of the tax team on the request for manual billing of other natures - 16:23:23
+CRIAR CT - Approval of the treasury team with regard to clauses of accounts receivable - 16:23:28
+Já havia cadastro: CT - Approval of the treasury team with regard to clauses of accounts receivable - 16:23:43
+CRIAR CT - Mandatory approval by End-User of games for the terms of use of games - 16:23:50
+Já havia cadastro: CT - Mandatory approval by End-User of games for the terms of use of games - 16:24:05
+Iniciando automação - 16:24:09
+Página aberta - 16:24:12
+Login realizado - 16:24:18
+Iniciando automação - 16:24:36
+Página aberta - 16:24:38
+Login realizado - 16:24:45
+Navegação até área issue - 16:24:49
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:24:54
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:25:57
+Iniciando automação - 16:25:59
+Página aberta - 16:26:04
+Login realizado - 16:26:12
+Navegação até área issue - 16:26:19
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:26:23
+SALVO CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:26:47
+CRIAR CT - Approval of revenue value to be billed by core areas - 16:26:51
+Iniciando automação - 16:28:20
+Página aberta - 16:28:22
+Login realizado - 16:28:27
+Iniciando automação - 16:36:14
+Página aberta - 16:36:22
+Login realizado - 16:36:29
+Navegação até área issue - 16:36:33
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:36:37
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:37:52
+Iniciando automação - 16:38:00
+Página aberta - 16:38:02
+Login realizado - 16:38:11
+Navegação até área issue - 16:38:17
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:38:21
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:52:50
+Iniciando automação - 16:52:53
+Página aberta - 16:52:59
+Login realizado - 16:53:05
+Navegação até área issue - 16:53:10
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:53:15
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:53:57
+Iniciando automação - 16:55:25
+Página aberta - 16:55:27
+Login realizado - 16:55:34
+Navegação até área issue - 16:55:39
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:55:43
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:57:04
+Iniciando automação - 16:57:07
+Página aberta - 16:57:10
+Login realizado - 16:57:16
+Iniciando automação - 16:58:35
+Página aberta - 16:58:39
+Login realizado - 16:58:47
+Navegação até área issue - 16:58:51
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:58:56
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 16:59:53
+Iniciando automação - 16:59:58
+Página aberta - 17:00:01
+Login realizado - 17:00:07
+Navegação até área issue - 17:00:11
+Iniciando automação - 17:04:15
+Página aberta - 17:04:20
+Login realizado - 17:04:26
+Iniciando automação - 17:05:28
+Página aberta - 17:05:33
+Login realizado - 17:05:39
+Navegação até área issue - 17:05:44
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 17:05:48
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 17:06:03
+CRIAR CT - Approval of revenue value to be billed by core areas - 17:06:08
+Já havia cadastro: CT - Approval of revenue value to be billed by core areas - 17:06:23
+Iniciando automação - 17:11:27
+Página aberta - 17:11:30
+Login realizado - 17:11:34
+Navegação até área issue - 17:11:40
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 17:11:45
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 17:12:00
+CRIAR CT - Approval of revenue value to be billed by core areas - 17:12:04
+Já havia cadastro: CT - Approval of revenue value to be billed by core areas - 17:12:19
+CRIAR CT - Approval of the requesting team on the request for manual billing of other natures - 17:12:24
+Iniciando automação - 17:14:13
+Página aberta - 17:14:16
+Login realizado - 17:14:20
+Navegação até área issue - 17:14:26
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 17:14:31
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 17:14:48
+CRIAR CT - Approval of revenue value to be billed by core areas - 17:14:52
+Já havia cadastro: CT - Approval of revenue value to be billed by core areas - 17:15:09
+CRIAR CT - Approval of the requesting team on the request for manual billing of other natures - 17:15:17
+Iniciando automação - 17:15:54
+Página aberta - 17:15:57
+Login realizado - 17:16:01
+Navegação até área issue - 17:16:07
+CRIAR CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 17:16:12
+Já havia cadastro: CT - Approval of Automatic Integration Parameters Between Bi System x ERP - 17:16:20
+CRIAR CT - Approval of revenue value to be billed by core areas - 17:16:24
+Já havia cadastro: CT - Approval of revenue value to be billed by core areas - 17:16:32
+Iniciando automação - 17:17:42
+Página aberta - 17:17:48
+Login realizado - 17:17:53
+Navegação até área issue - 17:18:05
+CRIAR CT - Approval of revenue value to be billed by core areas - 17:18:09
+Já havia cadastro: CT - Approval of revenue value to be billed by core areas - 17:18:17
+Iniciando automação - 17:19:53
+Página aberta - 17:19:57
+Login realizado - 17:20:00
+Navegação até área issue - 17:20:10
+CRIAR CT - Approval of revenue value to be billed by core areas - 17:20:18
+Já havia cadastro: CT - Approval of revenue value to be billed by core areas - 17:20:26
+CRIAR CT - Approval of the requesting team on the request for manual billing of other natures - 17:20:30
+Já havia cadastro: CT - Approval of the requesting team on the request for manual billing of other natures - 17:20:39
+Iniciando automação - 17:47:21
+Página aberta - 17:47:24
+Login realizado - 17:47:27
+Navegação até área issue - 17:47:34
+CRIAR CT - Approval of revenue value to be billed by core areas - 17:47:39
+Iniciando automação - 17:58:09
+Página aberta - 17:58:13
+Login realizado - 17:58:17
+Navegação até área issue - 17:58:24
+CRIAR CT - Approval of revenue value to be billed by core areas - 17:58:28
+Iniciando automação - 18:10:46
+Página aberta - 18:10:50
+Login realizado - 18:10:53
+Navegação até área issue - 18:11:02
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:11:06
+Iniciando automação - 18:13:30
+Página aberta - 18:13:35
+Login realizado - 18:13:38
+Navegação até área issue - 18:13:51
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:13:56
+Iniciando automação - 18:14:24
+Página aberta - 18:14:26
+Login realizado - 18:14:30
+Navegação até área issue - 18:14:42
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:14:46
+Iniciando automação - 18:16:54
+Página aberta - 18:16:59
+Login realizado - 18:17:03
+Navegação até área issue - 18:17:10
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:17:14
+Iniciando automação - 18:18:37
+Página aberta - 18:18:40
+Login realizado - 18:18:44
+Navegação até área issue - 18:18:50
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:18:55
+Iniciando automação - 18:20:05
+Página aberta - 18:20:08
+Login realizado - 18:20:12
+Navegação até área issue - 18:20:22
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:20:27
+Iniciando automação - 18:23:14
+Página aberta - 18:23:17
+Login realizado - 18:23:21
+Navegação até área issue - 18:23:32
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:23:37
+Iniciando automação - 18:24:26
+Página aberta - 18:24:29
+Login realizado - 18:24:32
+Navegação até área issue - 18:24:39
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:24:43
+Iniciando automação - 18:27:13
+Página aberta - 18:27:18
+Login realizado - 18:27:22
+Navegação até área issue - 18:27:28
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:27:33
+Iniciando automação - 18:28:19
+Página aberta - 18:28:23
+Login realizado - 18:28:27
+Navegação até área issue - 18:28:34
+CRIAR CT - Approval of revenue value to be billed by core areas - 18:28:39
+Iniciando automação - 20:48:43
+Página aberta - 20:48:47
+Login realizado - 20:48:52
+Navegação até área issue - 20:49:00
+CRIAR CT - Approval of revenue value to be billed by core areas - 20:49:05

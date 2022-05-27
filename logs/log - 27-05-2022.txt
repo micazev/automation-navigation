@@ -1,0 +1,126 @@
+08:40:48 - Iniciando automação
+08:40:54 - Página aberta
+08:41:01 - Login realizado
+08:41:01 - 
+08:41:14 - Navegação até área issue
+08:41:14 - 
+08:41:14 - Já cadastrado: CT - Hierarchical Approval Contract Cancelation
+08:41:14 - Já cadastrado completamente: CT - Hierarchical Approval Contract Cancelation
+08:41:14 - Já cadastrado: CT - Hierarchical Approval Contract Update
+08:41:14 - Já cadastrado completamente: CT - Hierarchical Approval Contract Update
+08:41:14 - Já cadastrado: CT - Hierarchical approval for group of buyers
+08:41:14 - Já cadastrado completamente: CT - Hierarchical approval for group of buyers
+08:41:14 - Já cadastrado: CT - Hierarchical approval in case of Conflicts of interest
+08:41:14 - Já cadastrado completamente: CT - Hierarchical approval in case of Conflicts of interest
+08:41:15 - Já cadastrado: CT - Hierarchical approval in case of lack of business rules in the Policy
+08:41:15 - Já cadastrado completamente: CT - Hierarchical approval in case of lack of business rules in the Policy
+08:41:15 - Já cadastrado: CT - Hierarchical approval of contracts
+08:41:15 - Já cadastrado completamente: CT - Hierarchical approval of contracts
+08:41:15 - Já cadastrado: CT - Hierarchical approval workflow of contracts
+08:41:15 - Já cadastrado completamente: CT - Hierarchical approval workflow of contracts
+08:41:15 - Já cadastrado: CT - Item registration policy
+08:41:15 - Já cadastrado completamente: CT - Item registration policy
+08:41:15 - Já cadastrado: CT - Management about non-compliance with special clauses
+08:41:15 - Já cadastrado completamente: CT - Management about non-compliance with special clauses
+08:41:16 - Já cadastrado: CT - Monitor special clauses with possible penalties
+08:41:16 - Já cadastrado completamente: CT - Monitor special clauses with possible penalties
+08:41:16 - Já cadastrado: CT - Monitoring closely of decisions and/ or operations in disagreement with current Policy
+08:41:16 - Já cadastrado completamente: CT - Monitoring closely of decisions and/ or operations in disagreement with current Policy
+08:41:16 - Já cadastrado: CT - Monitoring contracts expiration dates
+08:41:16 - Já cadastrado completamente: CT - Monitoring contracts expiration dates
+08:41:16 - Já cadastrado: CT - Notification of the contract status
+08:41:16 - Já cadastrado completamente: CT - Notification of the contract status
+08:41:17 - Já cadastrado: CT - Procurement approval in case of lack of business rules in the Policy
+08:41:17 - Já cadastrado completamente: CT - Procurement approval in case of lack of business rules in the Policy
+08:41:17 - Já cadastrado: CT - Procurement onboarding training
+08:41:17 - Já cadastrado completamente: CT - Procurement onboarding training
+08:41:17 - Já cadastrado: CT - Procurement procedures and guidelines
+08:41:17 - Já cadastrado completamente: CT - Procurement procedures and guidelines
+08:41:18 - Já cadastrado: CT - Reconciliation of approvers on Ironclad
+08:41:18 - Já cadastrado completamente: CT - Reconciliation of approvers on Ironclad
+08:41:18 - Já cadastrado: CT - Review of setting and parameters on all related systems
+08:41:18 - Já cadastrado completamente: CT - Review of setting and parameters on all related systems
+08:41:18 - Já cadastrado: CT - Review of setting of data maintenance (exchange rate, tax rate, interest rate, among others)
+08:41:18 - Já cadastrado completamente: CT - Review of setting of data maintenance (exchange rate, tax rate, interest rate, among others)
+08:41:18 - Já cadastrado: CT - Risk monitoring of lack of visibility of registration status / registration and approval workflow
+08:41:18 - Já cadastrado completamente: CT - Risk monitoring of lack of visibility of registration status / registration and approval workflow
+08:41:19 - Já cadastrado: CT - Risk monitoring of PO issuance when invoice is expired
+08:41:19 - Já cadastrado completamente: CT - Risk monitoring of PO issuance when invoice is expired
+08:41:19 - Já cadastrado: CT - Supplier homologation policy
+08:41:19 - Já cadastrado completamente: CT - Supplier homologation policy
+08:41:19 - Já cadastrado: CT - System access control and profile set up management
+08:41:19 - Já cadastrado completamente: CT - System access control and profile set up management
+08:41:19 - Já cadastrado: CT - Systemic block for contract cancelation with lack of data
+08:41:19 - Já cadastrado completamente: CT - Systemic block for contract cancelation with lack of data
+08:41:20 - Já cadastrado: CT - Systemic Block of Contract Update with lack of data
+08:41:20 - Já cadastrado completamente: CT - Systemic Block of Contract Update with lack of data
+08:41:20 - Já cadastrado: CT - Technical approval for blocking / unblocking vendors
+08:41:20 - Já cadastrado completamente: CT - Technical approval for blocking / unblocking vendors
+08:41:20 - Já cadastrado: CT - Technical approval for delivery with different PO specifications
+08:41:20 - Já cadastrado completamente: CT - Technical approval for delivery with different PO specifications
+08:41:20 - Já cadastrado: CT - Technical approval of KPI reports by category buyer
+08:41:20 - Já cadastrado completamente: CT - Technical approval of KPI reports by category buyer
+08:41:21 - Já cadastrado: CT - Technical approval of supply assessment
+08:41:21 - Já cadastrado completamente: CT - Technical approval of supply assessment
+08:41:21 - Já cadastrado: CT - Technical approval of the standard regularization request
+08:41:21 - Já cadastrado completamente: CT - Technical approval of the standard regularization request
+08:41:21 - Já cadastrado: CT - Technical approval workflow for new suppliers
+08:41:21 - Já cadastrado completamente: CT - Technical approval workflow for new suppliers
+08:41:21 - Já cadastrado: CT - Technical approval workflow for purchase categories
+08:41:21 - Já cadastrado completamente: CT - Technical approval workflow for purchase categories
+08:41:21 - Já cadastrado: CT - Technical approval workflow for updating suppliers bank information
+08:41:21 - Já cadastrado completamente: CT - Technical approval workflow for updating suppliers bank information
+08:41:22 - Já cadastrado: CT - Training for supplier homologation
+08:41:22 - Já cadastrado completamente: CT - Training for supplier homologation
+08:41:22 - Já cadastrado: CT - Training of Operational Contract
+08:41:22 - Já cadastrado completamente: CT - Training of Operational Contract
+08:41:22 - Já cadastrado: CT - Accounting policy
+08:41:22 - Já cadastrado completamente: CT - Accounting policy
+08:41:22 - Já cadastrado: CT - Access Management Policy
+08:41:22 - Já cadastrado completamente: CT - Access Management Policy
+08:41:23 - Já cadastrado: CT - Conciliation of intercompany / investment / PL balances through EPM extracted reports
+08:41:23 - Já cadastrado completamente: CT - Conciliation of intercompany / investment / PL balances through EPM extracted reports
+08:41:23 - Já cadastrado: CT - Monthly Reconciliation of Corporate Participation
+08:41:23 - Já cadastrado completamente: CT - Monthly Reconciliation of Corporate Participation
+08:41:23 - Já cadastrado: CT - Reconciliation of accounting reports submitted in DW and consolidated in EPM
+08:41:23 - Já cadastrado completamente: CT - Reconciliation of accounting reports submitted in DW and consolidated in EPM
+08:41:23 - Já cadastrado: CT - Reconciliation of the final result after tax entryes on the result
+08:41:23 - Já cadastrado completamente: CT - Reconciliation of the final result after tax entryes on the result
+08:41:24 - Já cadastrado: CT - Reconciliation of other expenses / significant manual recipes x Accounting
+08:41:24 - Já cadastrado completamente: CT - Reconciliation of other expenses / significant manual recipes x Accounting
+08:41:24 - Já cadastrado: CT - Reconciliation of taxes retained by suppliers x accounting
+08:41:24 - Já cadastrado completamente: CT - Reconciliation of taxes retained by suppliers x accounting
+08:41:24 - Já cadastrado: CT - General Reconciliation of the Account Plan and Entities
+08:41:24 - Já cadastrado completamente: CT - General Reconciliation of the Account Plan and Entities
+08:41:25 - Já cadastrado: CT - Reconciliation of accounting accounting plan
+08:41:25 - Já cadastrado completamente: CT - Reconciliation of accounting accounting plan
+08:41:25 - Já cadastrado: CT - Hierarchical approval for creation, updating or blocking new entities
+08:41:25 - Já cadastrado completamente: CT - Hierarchical approval for creation, updating or blocking new entities
+08:41:25 - Já cadastrado: CT - Hierarchical approval of the result closing
+08:41:25 - Já cadastrado completamente: CT - Hierarchical approval of the result closing
+08:41:25 - Já cadastrado: CT - Intercompany Revenue Approval by Accounting and Tax Manager
+08:41:25 - Já cadastrado completamente: CT - Intercompany Revenue Approval by Accounting and Tax Manager
+08:41:26 - Já cadastrado: CT - Hierarchical approval of the tax manager for revenue and taxes
+08:41:26 - Já cadastrado completamente: CT - Hierarchical approval of the tax manager for revenue and taxes
+08:41:26 - Já cadastrado: CT - Hierarchical approval of BS and consolidated P & L
+08:41:26 - Já cadastrado completamente: CT - Hierarchical approval of BS and consolidated P & L
+08:41:26 - Já cadastrado: CT - Hierarchical approval of accounting indicators for the period
+08:41:26 - Já cadastrado completamente: CT - Hierarchical approval of accounting indicators for the period
+08:41:26 - Já cadastrado: CT - Hierarchical approval for equivalence and CTA calculation entryes according to accounting policy.
+08:41:26 - Já cadastrado completamente: CT - Hierarchical approval for equivalence and CTA calculation entryes according to accounting policy.
+08:41:27 - Já cadastrado: CT - Hierarchical Approval of Pre-Read at EPM (Narrative Reports)
+08:41:27 - Verificar caso: CT - Hierarchical Approval of Pre-Read at EPM (Narrative Reports)
+08:41:27 - Já cadastrado: CT - Hierarchical approval of DFs after adjustments
+08:41:27 - Já cadastrado completamente: CT - Hierarchical approval of DFs after adjustments
+08:41:27 - Já cadastrado: CT - Approval for reopening of the accounting period
+08:41:27 - Já cadastrado completamente: CT - Approval for reopening of the accounting period
+08:41:27 - Já cadastrado: CT - Hierarchical approval for implementing changes in the process from new legislation
+08:41:27 - Já cadastrado completamente: CT - Hierarchical approval for implementing changes in the process from new legislation
+08:41:28 - Já cadastrado: CT - Training with third parties on updates in accounting standards
+08:41:28 - Já cadastrado completamente: CT - Training with third parties on updates in accounting standards
+08:41:28 - Já cadastrado: CT - Fixed asset and intangible assets policies
+08:41:28 - Já cadastrado completamente: CT - Fixed asset and intangible assets policies
+08:41:28 - Já cadastrado: CT - Hierarchical approval of the write-off
+08:41:28 - Busca por CT - Hierarchical approval of the write-off
+08:41:41 - 
+08:41:43 - 

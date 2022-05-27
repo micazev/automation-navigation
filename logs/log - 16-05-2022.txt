@@ -1,0 +1,42 @@
+Iniciando automação - 11:25:36
+Página aberta - 11:25:44
+Login realizado - 11:25:53
+Navegação até área issue - 11:26:01
+Iniciando automação - 11:32:24
+Página aberta - 11:32:31
+Login realizado - 11:32:40
+Navegação até área issue - 11:32:49
+Iniciando automação - 11:34:04
+Página aberta - 11:34:08
+Login realizado - 11:34:14
+Navegação até área issue - 11:34:18
+CRIAR CT - Fixed asset and intangible assets policies - 11:34:24
+Iniciando automação - 11:36:50
+Página aberta - 11:36:55
+Login realizado - 11:37:03
+Navegação até área issue - 11:37:07
+Iniciando automação - 11:42:40
+Página aberta - 11:42:46
+Login realizado - 11:42:52
+Navegação até área issue - 11:42:56
+CRIAR CT - Fixed asset and intangible assets policies - 11:43:02
+Iniciando automação - 11:44:46
+Página aberta - 11:44:50
+Login realizado - 11:44:57
+Navegação até área issue - 11:45:01
+CRIAR CT - Fixed asset and intangible assets policies - 11:45:06
+Iniciando automação - 11:48:53
+Página aberta - 11:48:59
+Login realizado - 11:49:05
+Navegação até área issue - 11:49:10
+CRIAR CT - Fixed asset and intangible assets policies - 11:49:15
+Iniciando automação - 11:52:26
+Página aberta - 11:52:31
+Login realizado - 11:52:36
+Navegação até área issue - 11:52:41
+CRIAR CT - Fixed asset and intangible assets policies - 11:52:46
+Iniciando automação - 11:53:33
+Página aberta - 11:53:37
+Login realizado - 11:53:43
+Navegação até área issue - 11:53:48
+CRIAR CT - Fixed asset and intangible assets policies - 11:53:54
