@@ -26,7 +26,7 @@ class Main(ListIssues, Login, NavigateIss):
         
 
     def Connect(self):           
-        self.web.get("https://fa-eueu-saasfaprod1.fa.ocs.oraclecloud.com")        
+        self.web.get("https://_.com")        
         self.web.maximize_window()
         Log.add("Página aberta")
 
